@@ -58,7 +58,7 @@ All tests are under `tests` directory.
 
 ```bash
 # Change the directory
-$ cd fastapi-web-test
+$ cd fastapi_web_test
 # Run tests
 $ pytest -v
 ```
