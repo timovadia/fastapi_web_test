@@ -33,8 +33,8 @@ pytest==6.2.5
 ## Installation & Usage
 
 ```bash
-$ git clone git@github.com:shinokada/fastapi-web-starter.git
-$ cd fastapi-web-starter
+$ git clone git@github.com:timovadia/fastapi_web_test.git
+$ cd fastapi_web_test
 # install packages
 $ pip install -r requirements.txt
 # start the server
